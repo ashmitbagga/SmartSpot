@@ -1,0 +1,92 @@
+[
+  {
+    "plate": "ASDASDAS",
+    "type": "Car",
+    "size": "Medium",
+    "is_ev": false,
+    "needs_charging": false,
+    "needs_access": false,
+    "priority": "Normal",
+    "space": null
+  },
+  {
+    "plate": "HR2312284",
+    "type": "SUV",
+    "size": "Medium",
+    "is_ev": false,
+    "needs_charging": false,
+    "needs_access": true,
+    "priority": "Normal",
+    "space": null
+  },
+  {
+    "plate": "DL2399851",
+    "type": "Bike",
+    "size": "Large",
+    "is_ev": true,
+    "needs_charging": true,
+    "needs_access": false,
+    "priority": "Normal",
+    "space": "A2"
+  },
+  {
+    "plate": "OD120314",
+    "type": "Car",
+    "size": "Large",
+    "is_ev": true,
+    "needs_charging": true,
+    "needs_access": false,
+    "priority": "High",
+    "space": "A3"
+  },
+  {
+    "plate": "DL419715",
+    "type": "Car",
+    "size": "Medium",
+    "is_ev": false,
+    "needs_charging": false,
+    "needs_access": false,
+    "priority": "Normal",
+    "space": "B1"
+  },
+  {
+    "plate": "HR176811",
+    "type": "Car",
+    "size": "Medium",
+    "is_ev": false,
+    "needs_charging": false,
+    "needs_access": false,
+    "priority": "Normal",
+    "space": null
+  },
+  {
+    "plate": "DL136181",
+    "type": "Car",
+    "size": "Medium",
+    "is_ev": false,
+    "needs_charging": false,
+    "needs_access": true,
+    "priority": "Normal",
+    "space": null
+  },
+  {
+    "plate": "DL1987519",
+    "type": "Car",
+    "size": "Large",
+    "is_ev": true,
+    "needs_charging": true,
+    "needs_access": true,
+    "priority": "Normal",
+    "space": null
+  },
+  {
+    "plate": "UP9691328",
+    "type": "Car",
+    "size": "Medium",
+    "is_ev": true,
+    "needs_charging": false,
+    "needs_access": false,
+    "priority": "Normal",
+    "space": "B2"
+  }
+]
